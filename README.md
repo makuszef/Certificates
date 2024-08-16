@@ -1,10 +1,14 @@
 # 📜 Certificates
 
-## 🏆 Additional Finished Courses
+## 🏆 Finished Courses
 1. **CCNAv7: Introduction to Networks**
 2. **CCNAv7: Switching, Routing, and Wireless Essentials**
 3. **Network Support and Security**
-4. **Skills for All**
+4. **📜 Red Hat**
+    1. **🐋 Certificate of Attendance DO188-4.12**
+    2. **🐧 Certificate of Attendance RH124-9.0**
+    3. **🐧 Certificate of Attendance RH134-9.0**
+5. **Skills for All**
     1. **🔐 Endpoint Security**
     2. **🛡️ Introduction to Cybersecurity**
     3. **🕵️‍♂️ Ethical Hacker**
